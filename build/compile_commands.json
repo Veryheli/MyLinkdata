@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chenrenhao/cpp/MyLinkdata/build",
+  "command": "/usr/bin/c++  -I/home/chenrenhao/cpp/MyLinkdata/header  -o CMakeFiles/Tarject.dir/src/test.cpp.o -c /home/chenrenhao/cpp/MyLinkdata/src/test.cpp",
+  "file": "/home/chenrenhao/cpp/MyLinkdata/src/test.cpp"
+}
+]
