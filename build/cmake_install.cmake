@@ -1,4 +1,4 @@
-# Install script for directory: /home/chenrenhao/cpp/MyLinkdata
+# Install script for directory: /home/chenrenhao/githubFile/MyLinkdata
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/chenrenhao/cpp/MyLinkdata/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/chenrenhao/githubFile/MyLinkdata/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

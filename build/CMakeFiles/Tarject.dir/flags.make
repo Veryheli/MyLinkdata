@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/chenrenhao/cpp/MyLinkdata/header
+CXX_INCLUDES = -I/home/chenrenhao/githubFile/MyLinkdata/header
 
 CXX_FLAGS = 
 
